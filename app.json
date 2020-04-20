@@ -1,3 +1,8 @@
 {
-  
+  "name": "Hello PHP Express",
+  "description": "The 'hello, world' for a PHP Express App",
+  "keywords": [
+    "php"
+  ],
+  "repository": "https://github.com/B3arAndW0lf/gooPhp.git"
 }
